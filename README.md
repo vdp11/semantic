@@ -4,7 +4,7 @@ This project demonstrates semantic similarity analysis using spaCy.
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.11.5
 - Docker (if you prefer running the script in a container)
 
 ## Installation
