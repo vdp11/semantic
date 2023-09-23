@@ -34,7 +34,7 @@ And then run the Docker container:
 
 '''bash
 
-docker run -it semantic
+docker run semantic
 
 ## Results
 The script will calculate and display semantic similarity scores between words or phrases.
