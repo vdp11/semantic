@@ -1,0 +1,10 @@
+Regarding the similarities between cat, monkey, and banana, what I find interesting is how they can be related through their properties and attributes. For instance, all three are living organisms, they have specific physical features such as fur, and they can be categorized as mammals. On the other hand, they also differ in various ways such as the type of food they consume, their behavior, and their natural habitats.
+
+
+As for an example of my own, let's consider the similarities between a car, a bicycle, and a skateboard. While all three are modes of transportation, they differ in their size, speed, and the way they are operated. 
+A car is typically large, fast, and requires fuel, while a bicycle is smaller, slower, and can be powered by human effort. A skateboard is even smaller and slower than a bicycle and is typically used for recreational purposes.
+
+
+I modified code of the example file to use the 'en_core_web_sm' model instead of 'en_core_web_md.' I did this by changing the following line: nlp = spacy.load('en_core_web_md') to nlp = spacy.load('en_core_web_sm')
+
+After running the example file, the differences between the 'en_core_web_sm' and 'en_core_web_md' language models is the size of their vocabulary and the number of training examples. 'en_core_web_md' is a larger model that includes more features and is trained on a larger dataset, which makes it more accurate and robust in understanding complex sentences and nuanced language while 'en_core_web_sm' is a smaller and faster model compared to 'en_core_web_md.' It may not provide as detailed embeddings, so some similarity relationships may be less accurate.
